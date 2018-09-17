@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Documents\snake\snake\obj\x86\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Documents\snake\snake\bin\Debug\snake.exe
+C:\Users\Victor\Desktop\Documents\snake\snake\bin\Debug\snake.pdb
+C:\Users\Victor\Desktop\Documents\snake\snake\obj\x86\Debug\snake.exe
+C:\Users\Victor\Desktop\Documents\snake\snake\obj\x86\Debug\snake.pdb
+D:\1VIDEOJUEGOS\Documents\snake\snake\obj\x86\Debug\snake.exe
+D:\1VIDEOJUEGOS\Documents\snake\snake\obj\x86\Debug\snake.pdb
+D:\1VIDEOJUEGOS\Documents\snake\snake\bin\Debug\snake.exe
+D:\1VIDEOJUEGOS\Documents\snake\snake\bin\Debug\snake.pdb
+D:\1VIDEOJUEGOS\Documents\snake\snake\obj\x86\Debug\snake.csprojResolveAssemblyReference.cache
+D:\GITHUB\FP\snake\snake\obj\x86\Debug\snake.exe
+D:\GITHUB\FP\snake\snake\obj\x86\Debug\snake.pdb
+D:\GITHUB\FP\snake\snake\bin\Debug\snake.exe
+D:\GITHUB\FP\snake\snake\bin\Debug\snake.pdb
+D:\GITHUB\FP\snake\snake\obj\x86\Debug\snake.csprojResolveAssemblyReference.cache
